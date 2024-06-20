@@ -11,6 +11,6 @@ public class Boj9086_again {
             System.out.print(input.charAt(0));
             System.out.println(input.charAt(input.length()-1)); // String 의 맨 마지막 글자를 프린트하고 싶으면 이렇게 length 를 활용
         }
-        System.out.println();
+
     }
 }

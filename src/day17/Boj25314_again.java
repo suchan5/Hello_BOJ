@@ -11,6 +11,5 @@ public class Boj25314_again {
             System.out.print("long ");
         }
         System.out.print("int");
-        System.out.println();
     }
 }
